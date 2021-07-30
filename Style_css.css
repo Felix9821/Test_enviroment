@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: rgb(7, 35, 46);
+    background-color: rgb(19, 124, 138);
     background-repeat: no-repeat;
     background-size:cover;
 }
@@ -30,17 +30,7 @@ body{
 .menu li a:hover{
     background: #3097eb;
     opacity: 50%;
-}
-* {
-    margin: 0; 
-    padding: 0;
-    box-sizing: border-box;
-}
-
-a{
-    color: rgba(249, 249, 250, 0.952);
-    text-decoration: none;
-}
+}   
 
 ul{
     list-style: none;
@@ -58,10 +48,11 @@ ul{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height:30px;
-    padding: 20px 0;
+    height:30%;
+    padding: 20px 30px;
 
 }
+
 
 .nav-brand {
     width: 70px;
